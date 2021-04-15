@@ -10,7 +10,7 @@ Hægt er að nálgast GraphiQL viðmót til að skoða gögnin á https://graphq
 
 Endapunktur fyrir GraphQL API má nálgast á https://swapi-graphql.netlify.app/.netlify/functions/index
 
-Ekki þarf að nota neitt annað en `POST` á endapunktinn með gögnum í querystring breytunum `query` og `variables`. Sjá gefinn grunn.
+Ekki þarf að nota neitt annað en `POST` á endapunktinn með gögnum í querystring breytunum `query` og `variables`. Sjá gefinn grunn
 
 ## TypeScript og týpur
 
